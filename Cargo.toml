@@ -1,0 +1,14 @@
+[package]
+name = "internship-application-systems"
+version = "0.1.0"
+authors = ["sudarshan <joecurious7@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pnet = "0.25.0"
+icmp = "0.3.0"
+dns-lookup = "1.0.1"
+ipaddress = "0.1.2"
+hostname-validator = "1.0.0"
